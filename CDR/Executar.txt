@@ -1,0 +1,5 @@
+Execute o BAT: npm
+
+e logo em seguida
+
+Execut o iniciar
