@@ -1,0 +1,8 @@
+# Após iniciar o bot & configurar vai ter que passar a lista de comandos
+
+
+; (prefix)dmall [mensagem]
+
+@ Mais comandos na proxima versão:
+
+siga. https://github.com/G3ZZING
