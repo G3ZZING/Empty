@@ -1,7 +1,7 @@
 {
-  "name": "div",
+  "name": "MASS-DM",
   "version": "1.0.0",
-  "description": "MASS DM",
+  "description": "Ready?",
   "main": "main.js",
   "dependencies": {
     "chalk": "^4.1.0",
