@@ -6,6 +6,20 @@
 
 ---
 
+### Settings "config.json" | Configuração "config.json"
+
+```json
+{
+    "token": "TOKEN",
+    "dono": "ID",
+    "prefix": "PREFIX"
+}
+```
+
+<img src="https://images.emojiterra.com/twitter/v13.0/128px/1f1fa-1f1f8.png" height="20px" width="20px"/> "Dono" = Owner ID
+
+---
+
 Coded By: G3ZZING#0001
 
 
